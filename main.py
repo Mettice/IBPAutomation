@@ -15,6 +15,9 @@ from src.tasks.tasks import (
 )
 from feedback_loop import FeedbackLoop, MarketingStrategyAgent
 
+from dotenv import load_dotenv
+load_dotenv()
+
 def main():
     try:
         # Create mock data
