@@ -4,6 +4,10 @@
 
 The Intelligent Business Process Automation (IBPA) system is a multi-agent AI solution designed to analyze, optimize, and automate business processes. Leveraging the power of CrewAI, this system employs specialized AI agents to perform data analysis, process optimization, and automation implementation.
 
+## Dashboard Screenshot
+
+![IBPA Dashboard Screenshot](images/ibpa_dashboard_screenshot.png)
+
 ## Features
 
 1. **Data Analysis**
@@ -29,6 +33,10 @@ The Intelligent Business Process Automation (IBPA) system is a multi-agent AI so
    - Includes utilities to generate realistic mock data for testing and demonstration
    - Simulates a year's worth of daily business data including sales, expenses, and customer satisfaction scores
 
+6. **Interactive Dashboard**
+   - Provides a web-based dashboard for visualizing results
+   - Displays sales trends, customer satisfaction metrics, and target achievements
+
 ## Project Structure
 
 ```
@@ -42,7 +50,14 @@ ibpa_project/
 │   └── utils/
 │       └── data_utils.py
 │
+├── templates/
+│   └── dashboard.html
+├── static/
+│   └── [static files for dashboard]
+├── images/
+│   └── ibpa_dashboard_screenshot.png
 ├── main.py
+├── dashboard.py
 ├── requirements.txt
 └── README.md
 ```
@@ -81,31 +96,40 @@ This will initiate the following process:
 3. Develop process improvement strategies
 4. Create automation scripts for priority improvements
 
+To view the dashboard:
+```
+python dashboard.py
+```
+Then open a web browser and navigate to `http://localhost:5000`.
+
 ## Customization
 
 - Modify `src/utils/data_utils.py` to change mock data generation or integrate with real data sources
 - Adjust agent parameters in `src/agents/agents.py` to fine-tune agent behaviors
 - Customize tasks in `src/tasks/tasks.py` to alter the specific jobs assigned to each agent
+- Update `dashboard.py` and `templates/dashboard.html` to modify the web dashboard
 
 ## Future Enhancements
 
 - Integration with real-time data sources
 - Implementation of more sophisticated AI models for each agent
-- Addition of a user interface for easier interaction and visualization
 - Expansion of the agent crew to cover more specialized business functions
+- Advanced analytics and predictive modeling capabilities
+- User authentication and multi-user support for the dashboard
 
 ## Contributing
 
-Contributions to the IBPA project are welcome! Please refer to our contributing guidelines for more information on how to submit pull requests, report issues, or request features.
+Contributions to the IBPA project are welcome! Please feel free to submit pull requests, report issues, or suggest new features. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
-
+[Specify your license here]
 
 ## Contact
 
+For any questions or support, please contact:
 https://www.linkedin.com/in/efuetngong-dion-72b188285/
 
 ---
 
-We hope this Intelligent Business Process Automation system helps streamline your business operations and drive efficiency. For any questions or support, please refer to the contact information above.
+We hope this Intelligent Business Process Automation system helps streamline your business operations and drive efficiency. Thank you for your interest in our project!
