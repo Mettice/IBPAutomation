@@ -6,6 +6,7 @@ The Intelligent Business Process Automation (IBPA) system is a multi-agent AI so
 ## Dashboard Screenshots
 
 ![IBPA Dashboard - Sales and Customer Satisfaction](images/ibpa_dashboard_screenshot.png)
+![IBPA Dashboard - Sales and Customer Satisfaction](images/ibpa_dashboard_screenshot1.png)
 ![IBPA Dashboard - Supply Chain Optimization](images/supply_chain_optimization_screenshot.png)
 
 ## Features
