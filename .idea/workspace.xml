@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a3a9f21-73a0-426d-b1a7-1c47beb2b2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IBP Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agents/agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/agents/data_analyst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/analysis_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/continuous_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedback_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/outcome_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/sentiment_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agents/agents.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/agents/agents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/analysis_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/analysis_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/data_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mettice&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mettice/IBPAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;0c3f0d3e-0307-49e4-9fc7-1b8d2ace76e0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/conta/PycharmProjects/IBPAutomation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1729385510521</updated>
       <workItem from="1729385516673" duration="499000" />
-      <workItem from="1729386142176" duration="1565000" />
+      <workItem from="1729386142176" duration="6114000" />
+      <workItem from="1729423772113" duration="4679000" />
     </task>
     <servers />
   </component>

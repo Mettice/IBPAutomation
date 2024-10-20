@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBPA Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>IBPA Dashboard</h1>
+    <div id="sales-chart"></div>
+    <div id="satisfaction-chart"></div>
+    <h2>Target Results</h2>
+    <pre id="results"></pre>
+
+    <script>
+        try {
+            var salesChart = JSON.parse('{{ sales_chart | safe }}');
+            var satisfactionChart = JSON.parse('{{ satisfaction_chart | safe }}');
+
+            Plotly.newPlot('sales-chart', salesChart.data, salesChart.layout);
+            Plotly.newPlot('satisfaction-chart', satisfactionChart.data, satisfactionChart.layout);
+
+            document.getElementById('results').textContent = JSON.stringify({{ results | tojson }}, null, 2);
+        } catch (error) {
+            console.error('Error rendering dashboard:', error);
+            document.body.innerHTML += '<p>Error rendering dashboard. Please check the console for details.</p>';
+        }
+    </script>
+</body>
+</html>
