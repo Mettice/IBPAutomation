@@ -151,7 +151,7 @@ Contributions to the IBPA project are welcome! Please feel free to submit pull r
 
 ## License
 
-[Specify your license here]
+
 
 ## Contact
 
