@@ -4,116 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a3a9f21-73a0-426d-b1a7-1c47beb2b2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.venv_new/Include/site/python3.10/greenlet/greenlet.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/alembic.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/chroma.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/coloredlogs.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/crewai.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/distro.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/docx2txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/dotenv.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/ec.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/f2py.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/fastapi.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/fastavro.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/flask.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/fonttools.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/gptcache_server.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/httpx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/huggingface-cli.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/humanfriendly.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/instructor.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/ipython.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/ipython3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/isympy.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/json_repair.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/jsondiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/jsonpatch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/jsonpointer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/jsonschema.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/langchain-server.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/langsmith.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/litellm.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/mako-render.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/markdown-it.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/nltk.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/nodeenv.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/normalizer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/onnxruntime_test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/openai.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/opentelemetry-bootstrap.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/opentelemetry-instrument.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pip.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pip3.10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pip3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/py.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyftmerge.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyftsubset.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pygmentize.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyproject-build.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyright-langserver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyright-python-langserver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyright-python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyright.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-decrypt.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-encrypt.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-keygen.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-priv2pub.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-sign.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-verify.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pytest.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pytube.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pywin32_postinstall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/pywin32_testall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/tabulate.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/tb-gcp-uploader.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/tqdm.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/ttx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/typer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/uv.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/uvicorn.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/uvx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/watchfiles.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/Scripts/wsdump.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/etc/jupyter/nbconfig/notebook.d/jupyterlab-plotly.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/133.d03e1dd786ee2967a117.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/423.d0d3e2912c33c7566484.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/478.fdc0539db81116781109.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/478.fdc0539db81116781109.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/486.6450efe6168c2f8caddb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/486.6450efe6168c2f8caddb.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/657.d00745f2277e50b85be7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/855.323c80e7298812d692e7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.c6c768d682b3638efd6b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/third-party-licenses.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/extension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/index.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/man/man1/ipython.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/man/man1/isympy.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv_new/share/man/man1/ttx.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/supply_chain_optimization_screenshot.png" afterDir="false" />
+    <list default="true" id="1a3a9f21-73a0-426d-b1a7-1c47beb2b2be" name="Changes" comment="Add dashboard and update README">
+      <changelist_data name="Fonkem Dion" email="lileospa14@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/src/ml/anomaly_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ml/forecaster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/data_fetcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/map_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/upload.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Include/site/python3.10/greenlet/greenlet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/alembic.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/chroma.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/coloredlogs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/crewai.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/distro.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/docx2txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/dotenv.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/ec.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/f2py.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/fastapi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/fastavro.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/flask.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/fonttools.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/gptcache_server.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/httpx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/huggingface-cli.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/humanfriendly.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/instructor.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/ipython.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/ipython3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/isympy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/json_repair.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/jsondiff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/jsonpatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/jsonpointer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/jsonschema.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/langchain-server.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/langsmith.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/litellm.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/mako-render.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/markdown-it.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/nltk.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/nodeenv.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/normalizer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/onnxruntime_test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/openai.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/opentelemetry-bootstrap.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/opentelemetry-instrument.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pip3.10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/py.test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyftmerge.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyftsubset.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pygmentize.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyproject-build.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyright-langserver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyright-python-langserver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyright-python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyright.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-decrypt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-encrypt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-keygen.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-priv2pub.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-sign.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pyrsa-verify.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pytest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pytube.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pywin32_postinstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/pywin32_testall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/tabulate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/tb-gcp-uploader.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/tqdm.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/ttx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/typer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/uv.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/uvicorn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/uvx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/watchfiles.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/Scripts/wsdump.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/etc/jupyter/nbconfig/notebook.d/jupyterlab-plotly.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/133.e938c05aa03322a03382.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/423.8409ad662b0daea3de31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/478.a2ca696429f6c0bd6160.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/478.a2ca696429f6c0bd6160.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/486.52aa9063b291ec574154.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/486.52aa9063b291ec574154.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/657.538afe9b409b37ae707c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/879.b55d82ff9b3516e96fb0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.722ef6c4bed73383b578.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/labextensions/jupyterlab-plotly/static/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/extension.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/jupyter/nbextensions/jupyterlab-plotly/index.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/man/man1/ipython.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/man/man1/isympy.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv_new/share/man/man1/ttx.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/outcome_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/outcome_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/sentiment_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/sentiment_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Fonkem Dion &lt;lileospa14@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -178,11 +201,27 @@
       <workItem from="1729423772113" duration="8098000" />
       <workItem from="1729434576007" duration="627000" />
       <workItem from="1729437861289" duration="914000" />
-      <workItem from="1729439757441" duration="1224000" />
+      <workItem from="1729439757441" duration="10740000" />
+      <workItem from="1729456803552" duration="2317000" />
     </task>
+    <task id="LOCAL-00001" summary="Add dashboard screenshot">
+      <option name="closed" value="true" />
+      <created>1729441232151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729441232151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add dashboard screenshot" />
+    <MESSAGE value="&quot;Add dashboard and update README&quot;" />
+    <MESSAGE value="Add dashboard and update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dashboard and update README" />
   </component>
 </project>

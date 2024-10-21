@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Columns</title>
+</head>
+<body>
+    <h1>Map Your Columns</h1>
+    <form method="post">
+        <label for="date_column">Date Column:</label>
+        <select name="date_column" id="date_column">
+            {% for column in columns %}
+            <option value="{{ column }}">{{ column }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <label for="sales_column">Sales Column:</label>
+        <select name="sales_column" id="sales_column">
+            {% for column in columns %}
+            <option value="{{ column }}">{{ column }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <label for="satisfaction_column">Customer Satisfaction Column:</label>
+        <select name="satisfaction_column" id="satisfaction_column">
+            {% for column in columns %}
+            <option value="{{ column }}">{{ column }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <input type="submit" value="Analyze">
+    </form>
+</body>
+</html>
